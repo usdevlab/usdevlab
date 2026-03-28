@@ -6,7 +6,7 @@ Practical troubleshooting portfolio focused on how systems behave across layers 
 
 ## What This Is
 
-I built **Unib Shaida's Dev Lab** to document how I approach real troubleshooting problems using a structured workflow that combines hands-on testing, AI-driven analysis, and clear technical communication.
+I built **Unib Shaida's Dev Lab Powered by CloudFlare** to document how I approach real troubleshooting problems using a structured workflow that combines hands-on testing, AI-driven analysis, and clear technical communication.
 
 The goal is not just to make things work. The goal is to understand *why* they work, validate that behavior, and explain it in a way that others can follow.
 
